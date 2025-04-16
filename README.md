@@ -23,7 +23,7 @@ A web application that classifies images as either "Happy" or "Sad" using a Conv
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ImageEmotionClassifier.git
+git clone https://github.com/ravikiran-10/ImageEmotionClassifier.git
 cd ImageEmotionClassifier
 ```
 
@@ -53,6 +53,8 @@ ImageEmotionClassifier/
 ├── app.py              # Main Flask application
 ├── requirements.txt    # Python dependencies
 ├── README.md          # Project documentation
+├── LICENSE            # MIT License
+├── .gitignore         # Git ignore rules
 ├── models/            # Directory for saved models
 ├── data/              # Directory for training data
 │   ├── happy/        # Happy emotion images
@@ -85,4 +87,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - TensorFlow for the deep learning framework
 - Flask for the web framework
-- OpenCV for image processing 
+- OpenCV for image processing
