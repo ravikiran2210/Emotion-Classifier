@@ -1,0 +1,3 @@
+[submodule "image-classifier"]
+    path = image-classifier
+    url =
