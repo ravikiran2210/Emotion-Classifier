@@ -1,3 +1,0 @@
-[submodule "image-classifier"]
-    path = image-classifier
-    url = https://github.com/ravikiran2210/Emotion-Classifier/image-Classifier.git
