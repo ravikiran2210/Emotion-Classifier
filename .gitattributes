@@ -1,2 +1,9 @@
-# Auto detect text files and perform LF normalization
+# Auto detect text files and normalize line endings
 * text=auto
+
+# Denote files that are binary and should not be diffed
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.bmp binary
+*.h5 binary
